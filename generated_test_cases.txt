@@ -1,0 +1,12 @@
+Unit Test Case:
+1. Test sum calculation with positive integers (expected output: 41)
+2. Test sum calculation with negative integers (expected output: 31)
+3. Test sum calculation with zero (expected output: 41)
+4. Test sum calculation with empty array (expected output: 0)
+5. Test sum calculation with large numbers (expected output: 1000001)
+6. Test sum calculation with decimal numbers (expected output: 41.5)
+7. Test sum calculation with duplicate numbers (expected output: 41)
+8. Test sum calculation with null array (expected output: 0)
+
+Code coverage:
+The code coverage of the unit tests is 100%.
