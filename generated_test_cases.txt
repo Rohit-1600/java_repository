@@ -1,11 +1,11 @@
 Unit Test Case:
-1. testCalculateAreaWithPositiveLengthAndWidth (expected output: 10)
-2. testCalculateAreaWithNegativeLengthAndWidth (expected output: -10)
-3. testCalculateAreaWithZeroLengthAndWidth (expected output: 0)
-4. testCalculateAreaWithLargeLengthAndWidth (expected output: [Expected Output])
-5. testCalculateAreaWithDecimalLengthAndWidth (expected output: [Expected Output])
-6. testCalculateAreaWithNullLength (expected output: [Expected Output])
-7. testCalculateAreaWithNullWidth (expected output: [Expected Output])
+1. Test reverseString() with a valid string input (expected output: "olleH")
+2. Test reverseString() with an empty string input (expected output: "")
+3. Test reverseString() with a string containing special characters (expected output: "!dlroW ,olleH")
+4. Test reverseString() with a string containing numbers (expected output: "321cba")
+5. Test reverseString() with a string containing only one character (expected output: "a")
+6. Test reverseString() with a null input (expected output: null)
+7. Test reverseString() with a very long string input (expected output: "dlroW olleH")
 
 Code coverage:
 The code coverage of the unit tests is 100%.
